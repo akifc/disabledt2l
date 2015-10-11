@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.akif.instagram.disabledt2l"
-    android:versionCode="1"
-    android:versionName="1.0 Akif" >
+    android:versionCode="2"
+    android:versionName="1.1 Akif" >
 
     <uses-sdk
         android:minSdkVersion="15"
@@ -20,7 +20,7 @@
             android:value="15" />
         <meta-data
             android:name="xposeddescription"
-            android:value="by Akif" />
+            android:value="Disable double tap to like in Instagram" />
     </application>
 
 </manifest>
