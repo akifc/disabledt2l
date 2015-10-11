@@ -20,7 +20,7 @@
             android:value="15" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Disable double tap to like in Instagram" />
+            android:value="disable double tap to like in Instagram." />
     </application>
 
 </manifest>
