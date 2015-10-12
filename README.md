@@ -1,4 +1,4 @@
-# disabledt2l
+# disabledt2l for IG
 This module disables the double-tap to like feature in Instagram through the Xposed Framework.
 
 # License
