@@ -2,7 +2,7 @@
 This module disables the double-tap to like feature in Instagram through the Xposed Framework.
 
 # License
-The whole project is licensed under the GNU GPLv3. 
+The project is licensed under the GNU GPLv3. 
 
 Copyright (C) 2015 Akif
 
